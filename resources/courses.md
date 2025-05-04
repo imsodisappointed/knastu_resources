@@ -1,3 +1,4 @@
+### Python for Everybody  
 **Платформа**: Coursera  
 **Преподаватель(и)**: Dr. Charles Severance  
 **Содержание**: Основы Python, HTTP, работа с БД  
